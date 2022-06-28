@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, onAuthStateChanged  } from "firebase/auth";
 
 
-const firebaseConfig = {
+const Firebaseconfig = {
     apiKey: "AIzaSyAIZCuzdhuZbqMXOJU2k3affIHMPEHg6bg",
     authDomain: "team-manager-7d64c.firebaseapp.com",
     projectId: "team-manager-7d64c",
